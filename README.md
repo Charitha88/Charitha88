@@ -1,13 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Charitha k gowda
 ========================================================================================================================================
 
-Front-end developer
+Data Engineer
 -------------------
 
 * 🌍  I'm based in India,Karnataka
 * 🖥️  See my portfolio at [My Portfolio](http://m)
 * ✉️  You can contact me at [charithakgowda@gmail.com](mailto:charithakgowda@gmail.com)
-* 🧠  I'm learning Android development
 
 ### Skills
 

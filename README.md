@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Engineer
 -------------------
 
-* 🌍  I'm based in India,Karnataka
+* 🌍  I'm from india,Karnataka
 * 🖥️  See my portfolio at [My Portfolio](http://m)
 * ✉️  You can contact me at [charithakgowda@gmail.com](mailto:charithakgowda@gmail.com)
 
